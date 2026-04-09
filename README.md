@@ -1,26 +1,26 @@
-# Aishwarya's Portfolio Website 🚀
+# Aishwarya's Portfolio Website 
 
 Welcome to my personal portfolio website! This is a showcase of my skills, projects, and professional journey as an Engineering student passionate about building practical tech solutions.
 
-## 📋 About
+# About
 
 I am an **Engineering student** dedicated to creating innovative tech solutions and presenting them through live demos and comprehensive documentation. This portfolio website highlights my expertise, projects, and ways to connect with me.
 
-## 💼 What's Inside
+##  What's Inside
 
-### 🎯 Key Sections
+# Key Sections
 - **About Me** - A brief introduction about who I am and my passion for technology
 - **Skills** - Programming languages and tools I'm proficient in
 - **Projects** - A collection of projects I've worked on
 - **Contact** - Ways to reach out and connect
 
-### 🛠️ Technical Stack
+## Technical Stack
 - **Languages**: Python, PHP, C, C++, Java, SQL, Kotlin
 - **Databases**: MySQL with XAMPP & phpMyAdmin
 - **Tools**: GitHub, Jira, Project Management
 - **Frontend**: HTML, CSS, JavaScript
 
-## 📚 Featured Projects
+## Featured Projects
 
 1. **To-Do List App** - Task management application
 2. **Weather App** - Real-time weather information display
@@ -28,11 +28,11 @@ I am an **Engineering student** dedicated to creating innovative tech solutions 
 4. **Gym Membership Management** - Database-driven management system
 5. **Arduino Temperature Controlled Fan** - IoT/Embedded systems project
 
-## 🚀 Live Demo
+# Live Demo
 
 Visit my portfolio live: **[https://Aishhhwaryaa.github.io/Portfolio-Website](https://Aishhhwaryaa.github.io/Portfolio-Website)**
 
-## 📁 Project Structure
+# Project Structure
 
 ```
 Portfolio-Website/
@@ -59,7 +59,7 @@ git clone https://github.com/Aishhhwaryaa/Portfolio-Website.git
 - **GitHub**: [@Aishhhwaryaa](https://github.com/Aishhhwaryaa)
 - **Portfolio**: [https://Aishhhwaryaa.github.io/Portfolio-Website](https://Aishhhwaryaa.github.io/Portfolio-Website)
 
-## ⭐ Features
+## Features
 
 ✅ Clean and modern design
 ✅ Fully responsive layout
@@ -67,7 +67,7 @@ git clone https://github.com/Aishhhwaryaa/Portfolio-Website.git
 ✅ GitHub Pages hosted
 ✅ Easy to customize and extend
 
-## 📝 License
+# License
 
 Feel free to use this portfolio as inspiration for your own! Just remember to credit the original work.
 
